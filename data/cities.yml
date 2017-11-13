@@ -1,0 +1,6 @@
+- name: 'Nantes'
+  url: 'https://kitt.lewagon.com/placeholder/cities/nantes'
+- name: 'Lyon'
+  url: 'https://kitt.lewagon.com/placeholder/cities/lyon'
+- name: 'Marseille'
+  url: 'https://kitt.lewagon.com/placeholder/cities/marseille'
